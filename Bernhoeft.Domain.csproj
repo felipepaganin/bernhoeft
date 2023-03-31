@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Enums\**" />
+    <Compile Remove="ValueObjects\**" />
+    <EmbeddedResource Remove="Enums\**" />
+    <EmbeddedResource Remove="ValueObjects\**" />
+    <None Remove="Enums\**" />
+    <None Remove="ValueObjects\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bernhoeft.Shared\Bernhoeft.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

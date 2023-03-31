@@ -1,0 +1,15 @@
+C:\Users\Felipe\Desktop\bernhoeft\gerenciador-estoque\GerenciadorAPI\GerenciamentoEstoque.Domain\bin\Debug\net7.0\GerenciamentoEstoque.Domain.deps.json
+C:\Users\Felipe\Desktop\bernhoeft\gerenciador-estoque\GerenciadorAPI\GerenciamentoEstoque.Domain\bin\Debug\net7.0\GerenciamentoEstoque.Domain.dll
+C:\Users\Felipe\Desktop\bernhoeft\gerenciador-estoque\GerenciadorAPI\GerenciamentoEstoque.Domain\bin\Debug\net7.0\GerenciamentoEstoque.Domain.pdb
+C:\Users\Felipe\Desktop\bernhoeft\gerenciador-estoque\GerenciadorAPI\GerenciamentoEstoque.Domain\bin\Debug\net7.0\GerenciamentoEstoque.Shared.dll
+C:\Users\Felipe\Desktop\bernhoeft\gerenciador-estoque\GerenciadorAPI\GerenciamentoEstoque.Domain\bin\Debug\net7.0\GerenciamentoEstoque.Shared.pdb
+C:\Users\Felipe\Desktop\bernhoeft\gerenciador-estoque\GerenciadorAPI\GerenciamentoEstoque.Domain\obj\Debug\net7.0\GerenciamentoEstoque.Domain.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\bernhoeft\gerenciador-estoque\GerenciadorAPI\GerenciamentoEstoque.Domain\obj\Debug\net7.0\GerenciamentoEstoque.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\bernhoeft\gerenciador-estoque\GerenciadorAPI\GerenciamentoEstoque.Domain\obj\Debug\net7.0\GerenciamentoEstoque.Domain.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\bernhoeft\gerenciador-estoque\GerenciadorAPI\GerenciamentoEstoque.Domain\obj\Debug\net7.0\GerenciamentoEstoque.Domain.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\bernhoeft\gerenciador-estoque\GerenciadorAPI\GerenciamentoEstoque.Domain\obj\Debug\net7.0\GerenciamentoEstoque.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\bernhoeft\gerenciador-estoque\GerenciadorAPI\GerenciamentoEstoque.Domain\obj\Debug\net7.0\GerenciamentoEstoque.Domain.csproj.CopyComplete
+C:\Users\Felipe\Desktop\bernhoeft\gerenciador-estoque\GerenciadorAPI\GerenciamentoEstoque.Domain\obj\Debug\net7.0\GerenciamentoEstoque.Domain.dll
+C:\Users\Felipe\Desktop\bernhoeft\gerenciador-estoque\GerenciadorAPI\GerenciamentoEstoque.Domain\obj\Debug\net7.0\refint\GerenciamentoEstoque.Domain.dll
+C:\Users\Felipe\Desktop\bernhoeft\gerenciador-estoque\GerenciadorAPI\GerenciamentoEstoque.Domain\obj\Debug\net7.0\GerenciamentoEstoque.Domain.pdb
+C:\Users\Felipe\Desktop\bernhoeft\gerenciador-estoque\GerenciadorAPI\GerenciamentoEstoque.Domain\obj\Debug\net7.0\ref\GerenciamentoEstoque.Domain.dll

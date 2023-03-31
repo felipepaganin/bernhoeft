@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "GerenciamentoEstoque.Domain/1.0.0": {
+        "dependencies": {
+          "GerenciamentoEstoque.Shared": "1.0.0"
+        },
+        "runtime": {
+          "GerenciamentoEstoque.Domain.dll": {}
+        }
+      },
+      "GerenciamentoEstoque.Shared/1.0.0": {
+        "runtime": {
+          "GerenciamentoEstoque.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GerenciamentoEstoque.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GerenciamentoEstoque.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
